@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace IHLBot.Config
 {
-    public class Configuration
+    internal class Configuration
     {
 
     }
