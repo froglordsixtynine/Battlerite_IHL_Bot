@@ -1,0 +1,14 @@
+Game mode: 1v1/2v2/3v3
+Map choice: list of maps
+Draft type: Blind, draft
+Bans per team: 
+
+!creategame
+creates a new channel, new voice channel, (link to voice channel?). creator gets power over the channels
+can set settings now, templates, add players
+	!addplayer @discordname
+	!removeplayer @discordname
+	!loadtemplate ___
+!opengame
+
+!startgame
